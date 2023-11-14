@@ -1,0 +1,15 @@
+{
+  "name": "authnetwrapper",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/authorizenet": "^1.0.2",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "authorizenet": "^1.0.8"
+  }
+}
